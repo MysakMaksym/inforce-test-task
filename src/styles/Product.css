@@ -1,0 +1,35 @@
+.Product {
+  width: 60%;
+  border: 2px solid forestgreen;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.product-img {
+  width: 50%;
+}
+
+.product-info {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 20px;
+}
+
+.name {
+  color: forestgreen;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.info,
+.comments {
+  font-size: 18px;
+  align-self: flex-start;
+}
+
+.comments {
+  padding: 0px;
+}

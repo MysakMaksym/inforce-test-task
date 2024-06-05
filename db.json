@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/51j9waufaAL._AC_SL1500_.jpg",
+            "name": "Shovel",
+            "count": 4,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "200g",
+            "comments": ["CommentModel", "CommentModel"]
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://images-cdn.ubuy.com.sa/6352b813ca5cb83a2a302bc7-craftsman-21-in-lawn-mower-140cc-ohv.jpg",
+            "name": "Lawnmover",
+            "count": 3,
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "weight": "50kg",
+            "comments": ["CommentModel", "CommentModel"]
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://www.deere.com/assets/images/region-4/products/mowers/lawn-tractors/s100-r4j006314-1024x576.jpg",
+            "name": "Tractor",
+            "count": 1,
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "weight": "200kg",
+            "comments": ["CommentModel", "CommentModel"]
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/5c0aa5554bbe6f0f2aa19644/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "name": "Motorcycle",
+            "count": 10,
+            "size": {
+                "width": 1000,
+                "height": 100
+            },
+            "weight": "100kg",
+            "comments": ["CommentModel", "CommentModel"]
+        }
+    ]
+}
